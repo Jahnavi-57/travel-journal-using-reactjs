@@ -21,6 +21,6 @@ This project was bootstrapped with [Vite](url)<br>
 ## Resources
 - Images       ----> [Unsplash](www.unspalsh.com)
 - Icons         ----> [Fontawesome](https://fontawesome.com/search?m=free&o=r)
-- Fonts         ---->[Googlefonts](www.fonts.google.com)
+- Fonts         ---->[Googlefonts](fonts.google.com)
 - Here is a link for demo video on how to add icons to ur code [click here](https://www.youtube.com/watch?v=7fdpzXeXbcE)
 
