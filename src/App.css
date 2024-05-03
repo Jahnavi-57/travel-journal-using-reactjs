@@ -1,0 +1,90 @@
+*
+{
+  box-sizing: border-box;
+}
+body{
+  margin:0;
+  font-family: Poppins,sans-serif;
+}
+.nav
+{
+  display:flex;
+  height:70px;
+  justify-content: center;
+  background-color:blueviolet;
+  box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.1);;
+}
+.nav--logo
+{
+  padding-top:30px;
+  padding-right:3px;
+}
+.cards-list {
+  display: flex;
+  flex-direction: column;
+
+}
+
+.card
+{
+  border-bottom: 1px solid black;
+  height:auto;
+  display: flex;
+  flex-direction: row;
+  padding: 2em 0;
+}
+.card--image
+{
+  height: 100%;
+  /* width: 20vw; */
+  width: 20em;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  border-radius: 0.3em;
+
+  transform: scale(1);
+  transition: all 650ms ease-in-out;
+}
+.card--image:hover {
+  transform: scale(1.05);
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.11), 0 2px 2px rgba(0, 0, 0, 0.11),
+    0 4px 4px rgba(0, 0, 0, 0.11), 0 8px 8px rgba(0, 0, 0, 0.11),
+    0 16px 16px rgba(0, 0, 0, 0.11), 0 32px 32px rgba(0, 0, 0, 0.11);
+  /* filter: brightness(80%); */
+}
+.card--infos {
+
+  display:flex;
+  flex-direction: column;
+  margin-left: 1em;
+}
+.cont1 {
+  margin-top:0;
+  margin-bottom: 0;
+  display: flex;
+  align-items: center;
+  height:45px;
+
+}
+
+.card--icon {
+  margin-right: 10px;
+  margin-bottom: 0;
+}
+.card--location
+{
+  margin-right:10px;
+}
+.card--title
+{
+ margin:0;
+}
+.card--date
+{
+  margin-top:2px;
+  margin-bottom: 12px;
+}
+.card--desc
+{
+  font-size:13px;
+}
