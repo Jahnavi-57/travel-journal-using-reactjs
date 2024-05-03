@@ -22,6 +22,7 @@ This project was bootstrapped with [Vite](url)<br>
 - Images       ----> [Unsplash](https://unsplash.com/s/photos/source)
 - Icons         ----> [Fontawesome](https://fontawesome.com/search?m=free&o=r)
 - Fonts         ---->[Googlefonts](https://fonts.google.com)
+- Check the website link [here]( https://jahnavi-57.github.io/travel-journal-using-reactjs/)
 - Here is a link for demo video on how to add icons to ur code [click here](https://www.youtube.com/watch?v=7fdpzXeXbcE)
 
 ## Screenshot
