@@ -24,3 +24,7 @@ This project was bootstrapped with [Vite](url)<br>
 - Fonts         ---->[Googlefonts](https://fonts.google.com)
 - Here is a link for demo video on how to add icons to ur code [click here](https://www.youtube.com/watch?v=7fdpzXeXbcE)
 
+## Screenshot
+![image](https://github.com/Jahnavi-57/travel-journal-using-reactjs/assets/130915370/eb9874b4-28b2-4f3d-8eec-6aeb46678dc5)
+
+
