@@ -15,7 +15,7 @@ This project was bootstrapped with [Vite](url)<br>
   #Install dependencies
   $npm install
   
-  #Final command to open the website<br>
+  #Final command to open the website
   #npm run dev
 ```
 ## Resources
