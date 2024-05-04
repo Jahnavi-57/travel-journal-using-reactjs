@@ -5,7 +5,7 @@ A website showing the overview of journeys/trips using Reactjs
 This project was bootstrapped with [Vite](url)<br>
 ## Commands to run:
 
-```markdown
+```bash
   #clone this repository
   $git clone https://github.com/jahnavi-57/travel-journal-using-reactjs
   
@@ -16,7 +16,7 @@ This project was bootstrapped with [Vite](url)<br>
   $npm install
   
   #Final command to open the website
-  #npm run dev
+  $npm run dev
 ```
 ## Resources
 - Images       ----> [Unsplash](https://unsplash.com/s/photos/source)
