@@ -1,6 +1,6 @@
 # travel-journal-using-reactjs
 A website showing the overview of journeys/trips using Reactjs
-
+- It is a static web page
 # Getting Started
 This project was bootstrapped with [Vite](url)<br>
 ## Commands to run:
